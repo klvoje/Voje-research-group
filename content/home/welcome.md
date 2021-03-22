@@ -10,7 +10,7 @@ title: Phenotypic evolution along the timescale continuum
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: ""
     image_darken: 0
