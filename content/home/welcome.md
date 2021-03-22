@@ -8,7 +8,7 @@ headless: true
 weight: 10
 title: Phenotypic evolution along the timescale continuum
 subtitle: ""
-active: false
+active: true
 design:
   columns: "2"
   background:
