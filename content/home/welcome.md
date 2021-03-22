@@ -16,10 +16,10 @@ design:
     image_darken: 0
 hero_media: welcome.jpg
 ---
-#### Phenotypic evolution along the timescale continuum
+## Phenotypic evolution along the timescale continuum
 
-##### What are the nature and drivers of phenotypic evolution on short and long timescales? 
+#### What are the nature and drivers of phenotypic evolution on short and long timescales? 
 
-##### What is the relative importance of constraints and adaptation in shaping organisms? 
+#### What is the relative importance of constraints and adaptation in shaping organisms? 
 
-##### How relevant is microevolution in explaining macroevolutionary patterns?
+#### How relevant is microevolution in explaining macroevolutionary patterns?
