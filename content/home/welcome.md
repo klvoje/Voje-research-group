@@ -6,7 +6,7 @@ widget: hero
 widget_id: Velkommen
 headless: true
 weight: 1
-title: ""
+title: the voje lab
 subtitle: ""
 active: true
 design:
