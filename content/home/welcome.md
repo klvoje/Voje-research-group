@@ -13,6 +13,13 @@ design:
   columns: "1"
   background:
     image: ""
+    image_darken: 0
 hero_media: welcome.jpg
 ---
-The Voje lab seek to understand the nature and drivers of phenotypic evolution on short and long timescales, including  the relative importance of constraints and adaptation in shaping organisms.
+
+
+The Voje lab seek to understand the nature and drivers of phenotypic evolution on short and long timescales. 
+
+What is the relative importance of constraints and adaptation in shaping organisms? 
+
+How relevant is microevolution in explaining macroevolutionary patterns?
