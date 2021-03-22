@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: d
 headless: true
-weight: 10
+weight: 50
 title: Voje research group
 subtitle: Phenotypic evolution along the timescale continuum
 design:
