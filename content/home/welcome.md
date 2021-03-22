@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Velkommen
 headless: true
-weight: 10
+weight: 1
 title: Phenotypic evolution along the timescale continuum
 subtitle: ""
 active: true
