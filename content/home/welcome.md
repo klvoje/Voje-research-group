@@ -10,10 +10,11 @@ title: the voje lab
 subtitle: ""
 active: true
 design:
-  columns: ""
+  columns: "2"
   background:
     image: null
-    image_darken: 0
+    image_darken: 0.3
+    text_color_light: true
 hero_media: welcome.jpg
 ---
 ### Phenotypic evolution along the timescale continuum
