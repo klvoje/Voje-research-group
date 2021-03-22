@@ -6,7 +6,7 @@ widget: hero
 widget_id: Velkommen
 headless: true
 weight: 1
-title: Phenotypic evolution along the timescale continuum
+title: ""
 subtitle: ""
 active: true
 design:
@@ -16,10 +16,10 @@ design:
     image_darken: 0
 hero_media: welcome.jpg
 ---
+#### Phenotypic evolution along the timescale continuum
 
+##### What are the nature and drivers of phenotypic evolution on short and long timescales? 
 
-The Voje lab seek to understand the nature and drivers of phenotypic evolution on short and long timescales. 
+##### What is the relative importance of constraints and adaptation in shaping organisms? 
 
-What is the relative importance of constraints and adaptation in shaping organisms? 
-
-How relevant is microevolution in explaining macroevolutionary patterns?
+##### How relevant is microevolution in explaining macroevolutionary patterns?
