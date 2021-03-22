@@ -6,8 +6,8 @@ widget: hero
 widget_id: Velkommen
 headless: true
 weight: 10
-title: ""
-subtitle: Phenotypic evolution along the timescale continuum
+title: Phenotypic evolution along the timescale continuum
+subtitle: ""
 active: false
 design:
   columns: "2"
