@@ -6,7 +6,7 @@ widget: hero
 widget_id: d
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Voje research group
 subtitle: ""
 design:
   columns: "1"
