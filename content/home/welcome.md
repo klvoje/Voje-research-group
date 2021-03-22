@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: d
+widget_id: Velkommen
 headless: true
 weight: 10
 title: ""
