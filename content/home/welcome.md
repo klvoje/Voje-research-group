@@ -7,17 +7,15 @@ widget_id: Velkommen
 headless: true
 weight: 1
 title: the voje lab
-subtitle: ""
+subtitle: Phenotypic evolution along the timescale continuum
 active: true
 design:
-  columns: "2"
+  columns: ""
   background:
-    image: ""
+    image: null
     image_darken: 0
 hero_media: welcome.jpg
 ---
-## Phenotypic evolution along the timescale continuum
-
 #### What are the nature and drivers of phenotypic evolution on short and long timescales? 
 
 #### What is the relative importance of constraints and adaptation in shaping organisms? 
