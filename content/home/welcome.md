@@ -9,7 +9,7 @@ weight: 10
 title: Voje research group
 subtitle: Phenotypic evolution along the timescale continuum
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: /static/media/contact.jpg
 hero_media: welcome.jpg
